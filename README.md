@@ -11,23 +11,24 @@ This repository created by students to help students
   - 5-6 month internship.
 
 ## Table of Interships
+- **Possibilty prembauche**:  is decided if i know we student had it in that company .
 
 | Internship                                                                        | City            | Possiblity Prembauche |
 | --------------------------------------------------------------------------------- | --------------- | --------------------- |
-| sqli                                                                              | rabat           | oui                   |
+| sqli                                                                              | rabat           | yes                   |
 | segula                                                                            | casa            |
-| ribatis                                                                           | casa            | oui                   |
-| capgemini                                                                         | casa            |
+| ribatis                                                                           | casa            | yes                   |
+| capgemini                                                                         | casa            | yes                   |
 | ICADE                                                                             | france          |
 | CORAL-LO                                                                          | frace           |
-| avito                                                                             | casa            |
-| nimbleways                                                                        | casa            | oui                   |
+| avito                                                                             | casa            | yes                   |
+| nimbleways                                                                        | casa            | yes                   |
 | innov ds                                                                          | fes             |
 | Magic sweet international                                                         | casa            |
 | Disgroup                                                                          | casa            |
-| andria                                                                            | casa            | oui                   |
+| adria                                                                             | casa            | yes                   |
 | star max                                                                          | taroudant       |
-| CGI                                                                               | casa            | oui                   |
+| CGI                                                                               | casa            | yes                   |
 | akka technologies                                                                 | casa            |
 | 3ilms                                                                             | rabat           |
 | CDG Capital                                                                       | casa            |
@@ -44,7 +45,7 @@ This repository created by students to help students
 | Auxigene Maintenance                                                              | casa            |
 | Diebold Nixdorf                                                                   | casa            |
 | Castle IT                                                                         | casa            |
-| samir                                                                             | Mohammedia      |
+| la samir                                                                          | Mohammedia      |
 | astrolost                                                                         | marrakesh       |
 | leyton                                                                            | casablanca      |
 | Active center                                                                     | rabat           |
@@ -61,11 +62,11 @@ This repository created by students to help students
 | Sophatel                                                                          | casa            |
 | AEVAweb                                                                           | ojda            |
 | salesforce                                                                        |                 |
-| OCP maintenance solutions                                                         | marrakesh       | oui                   |
+| OCP maintenance solutions                                                         | marrakesh       | yes                   |
 | Centre National pour la Recherche Scientifique et Technique (CNRST)               | media           |
 | Artlink web                                                                       | media           |
 | involys                                                                           | casa            |
-| orange business services maroc                                                    | rabat           | oui                   |
+| orange business services maroc                                                    | rabat           | yes                   |
 | enset                                                                             | media           |
 | Key Performance Casablanca                                                        | casa            |
 | Centre météorologique Benguerir                                                   | bengrir         |
@@ -74,12 +75,12 @@ This repository created by students to help students
 | imalia                                                                            | agadir          |
 | digitalFactory                                                                    | casa            |
 | MoroCode                                                                          | agadir          |
-| oracle                                                                            | casa            | oui                   |
+| oracle                                                                            | casa            | yes                   |
 | Eila                                                                              |
 | Hôtel KENZI TOWER                                                                 | casa            |
 | Autonomous Board Multi-Services of Agadir                                         | agadir          |
 | DESIGNPUB AND SERVICE                                                             | agadir          |
-| fastcube                                                                          | casa            | oui                   |
+| fastcube                                                                          | casa            | yes                   |
 | ALMISBAH INFORMATIQUE                                                             | casa            |
 | Berexia consulting                                                                | casa            |
 | henceforth                                                                        | rabat           |
@@ -148,7 +149,7 @@ This repository created by students to help students
 | DATUM SARL                                                                        | casa            |
 | RABAT TECH                                                                        | rabat           |
 | bouyguues construction it                                                         | casa            |
-| COLAS DIGITAL SOLUTIONS                                                           | casa            | oui                   |
+| COLAS DIGITAL SOLUTIONS                                                           | casa            | yes                   |
 | DIGI4                                                                             | casa            |
 | ksoft                                                                             |                 |
 | RATP DEV                                                                          | casa            |
@@ -169,7 +170,7 @@ This repository created by students to help students
 | maghreb it                                                                        | casa            |
 | smart transformation                                                              | fes             |
 | ARKEOS                                                                            | casa            |
-| Attijariwafa bank                                                                 | casa            | oui                   |
+| Attijariwafa bank                                                                 | casa            | yes                   |
 | youcan                                                                            | rabat           |
 | crystal IT                                                                        | rabat           |
 | innovatech Engineering                                                            | casa            |
@@ -200,7 +201,7 @@ This repository created by students to help students
 | SEVEN                                                                             | casablanca      |
 | group timar                                                                       | cara            |
 | imperium media                                                                    | casa            |
-| cegedim                                                                           | rabat           | oui                   |
+| cegedim                                                                           | rabat           | yes                   |
 | in4                                                                               | meknes          |
 | storactive ssii                                                                   | meknes          |
 | axax assurance maroc                                                              | meknes          |
@@ -245,6 +246,10 @@ This repository created by students to help students
 ## Contribution
 
 Please feel free to contribute and add more to it to help the others...
+
+### Thanks to Contributors
+- [Imad IDALI OUALI](https://github.com/ImadIdaliouali)
+
 
 ## Contact
 
