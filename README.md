@@ -13,7 +13,7 @@ This repository created by students to help students
 ## Table of Interships
 - **Possibilty prembauche**:  is decided if i know we student had it in that company .
 
-| Internship                                                                        | City            | Possiblity Prembauche |
+| Internship                                                                        | City            | Possibility Pre-hiring |
 | --------------------------------------------------------------------------------- | --------------- | --------------------- |
 | sqli                                                                              | rabat           | yes                   |
 | segula                                                                            | casa            |
