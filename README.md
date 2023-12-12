@@ -6,7 +6,7 @@ This repository created by students to help students
   - 1 internship normaly 1 month jun->jul.
   - Some students take 2 internships.
 - **Second Year**:
-  - Possibilty of 2 internship in the second year aug->oct ,oct->dec.
+  - Possibilty of 2 internship in the second year jun->aug ,aug->oct.
 - **Last Year**:
   - 5-6 month internship.
 
