@@ -1,6 +1,12 @@
-# Internship
+## Contribution
 
-This repository created by students to help students
+Please feel free to contribute and add more to it to help the future students !
+
+### Thanks to Contributors
+- [Imad IDALI OUALI](https://github.com/ImadIdaliouali)
+
+
+# Internship
 
 - **First Year**:
   - 1 internship normaly 1 month jun->jul.
@@ -243,12 +249,6 @@ This repository created by students to help students
 | berexia consulting        |
 | ksoft                     |
 
-## Contribution
-
-Please feel free to contribute and add more to it to help the others...
-
-### Thanks to Contributors
-- [Imad IDALI OUALI](https://github.com/ImadIdaliouali)
 
 
 ## Contact
