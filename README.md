@@ -17,7 +17,7 @@ Please feel free to contribute and add more to it to help the future students !
   - 5-6 month internship.
 
 ## Table of Interships
-- **Possibilty prembauche**:  is decided if i know we student had it in that company .
+- **Possibility Pre-hiring**:  is decided if we know a student had it in that company .
 
 | Internship                                                                        | City            | Possibility Pre-hiring |
 | --------------------------------------------------------------------------------- | --------------- | --------------------- |
