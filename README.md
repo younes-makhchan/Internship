@@ -145,10 +145,10 @@ This repository created by students to help students
 | wafa assurance                                                                    | media           |
 | AFD tech                                                                          | rabat           |
 | Ministère de la Justice Maroc                                                     | rabat           |
-| DXC Technology                                                                    | rabat           |
+| DXC Technology                                                                    | rabat           | yes                   |
 | DATUM SARL                                                                        | casa            |
 | RABAT TECH                                                                        | rabat           |
-| bouyguues construction it                                                         | casa            |
+| bouyguues construction it                                                         | casa            | yes                   |
 | COLAS DIGITAL SOLUTIONS                                                           | casa            | yes                   |
 | DIGI4                                                                             | casa            |
 | ksoft                                                                             |                 |
@@ -166,7 +166,7 @@ This repository created by students to help students
 | societe generale                                                                  | casa            |
 | ABRIGO AFRICA                                                                     | rabat           |
 | OCTO technology                                                                   | rabat           |
-| berexia                                                                           | casa            |
+| berexia                                                                           | casa            | yes                   |
 | maghreb it                                                                        | casa            |
 | smart transformation                                                              | fes             |
 | ARKEOS                                                                            | casa            |
