@@ -213,6 +213,7 @@ Please feel free to contribute and add more to it to help the future students !
 | axax assurance maroc                                                              | meknes          |
 | Office Régional de Mise en Valeur Agricole                                        | fquih ben salah |
 | Arkenia                                                                           | media           |
+| Seomaniak                                                                         | OUJDA           |
 
 ## Job Opportunities
 
