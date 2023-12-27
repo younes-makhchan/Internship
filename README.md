@@ -2,6 +2,16 @@
 
 Please feel free to contribute and add more to it to help the future students !
 
+1. **Fork** the repository.
+2. **Clone** the forked repository to your local machine.
+3. Create a new branch for your changes.
+4. Make your changes and commit them.
+5. Push your changes to your fork.
+6. Open a **Pull Request (PR)**.
+8. Once approved, your changes will be merged.
+
+We appreciate your contributions! 🚀
+
 ### Thanks to Contributors
 - [Imad IDALI OUALI](https://github.com/ImadIdaliouali)
 - [Touil Ali](https://github.com/Touil-Ali)
