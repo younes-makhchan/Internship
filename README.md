@@ -250,6 +250,38 @@ Please feel free to contribute and add more to it to help the future students !
 | berexia consulting        |
 | ksoft                     |
 
+## internships (PFEs) remuneration in Morocco,
+- **STELLANTIS:** 2500 DH
+- **ALTEN:** 1600 DH
+- **CAPGEMINI Engineering:** 1500-1600 DH
+- **Sekera Casablanca - 2019/2020:** 3000 DH
+- **Octo Technology - 2020/2021:** 3000 DH
+- **Nimbleways - 2021-2022:** 4000 DH
+- **Neoxia - 2022-2023:** 5000 DH
+- **Xhub - 2019/2020:** 2000 DH
+- **Capgemini TS:** 2500
+- **Deloitte:** 4000
+- **CDG:** 3000
+- **Sqli:** 2700 (+ gagnant de la Compétition reçoit 50k DH)
+- **Nextronic:** 2000
+- **Lear:** 1500
+- **Tronico:** 1000
+- **Mascir:** 2000
+- **OCP:** 3000
+- **XAYone:** 1500
+- **ONCF:** 2000
+- **SanadTech:** 3000
+- **COLIBRI:** 2000
+- **ATOS:** 2500
+- **AVL:** 3000
+- **SanadTech:** 3000
+- **Colibri:** 2000
+- **DACHSER:** 2000
+- **DACHSER:** 2000
+- **Sofrecom:** 2500
+- **SOGEA MAROC:** 2500 + logement 1500
+   
+
 
 
 ## Contact
