@@ -224,6 +224,15 @@ We appreciate your contributions! 🚀
 | Office Régional de Mise en Valeur Agricole                                        | fquih ben salah |
 | Arkenia                                                                           | media           |
 | Seomaniak                                                                         | OUJDA           |
+| Smart transformation                                                              | Fes             |
+| Twins Group                                                                       | Fes             |
+| Fdi Soft                                                                          | Fes             |
+| Octobot Consulting & Training                                                     | Fes             |
+| Inventis                                                                          | Fes             |
+| RADEEF                                                                            | Fes             |
+| ALTEN                                                                             | Fes             |
+| CGI                                                                               | Fes
+
 
 ## Job Opportunities
 
